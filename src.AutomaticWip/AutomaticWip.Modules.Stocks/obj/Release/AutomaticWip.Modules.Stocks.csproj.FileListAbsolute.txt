@@ -1,0 +1,14 @@
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\bin\Release\AutomaticWip.Modules.Stocks.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\bin\Release\AutomaticWip.Modules.Stocks.pdb
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\bin\Release\Dapper.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\bin\Release\EPPlus.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\bin\Release\Oracle.ManagedDataAccess.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\bin\Release\AutomaticWip.Contracts.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\bin\Release\AutomaticWip.Modules.Excel.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\bin\Release\AutomaticWip.Contracts.pdb
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\bin\Release\AutomaticWip.Modules.Excel.pdb
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\obj\Release\AutomaticWip.Modules.Stocks.csprojAssemblyReference.cache
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\obj\Release\AutomaticWip.Modules.Stocks.csproj.CoreCompileInputs.cache
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\obj\Release\AutomaticWip.Modules.Stocks.csproj.CopyComplete
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\obj\Release\AutomaticWip.Modules.Stocks.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\obj\Release\AutomaticWip.Modules.Stocks.pdb

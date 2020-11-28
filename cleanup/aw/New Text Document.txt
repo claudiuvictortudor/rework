@@ -1,0 +1,1 @@
+Data Source=(DESCRIPTION = (ADDRESS_LIST = (ADDRESS = (PROTOCOL = TCP)(HOST = tmdb003.cw01.contiwan.com)(PORT = 1521))(ADDRESS = (PROTOCOL = TCP)(HOST = tmdb003.cw01.contiwan.com)(PORT = 1521)))(CONNECT_DATA = (SERVICE_NAME = MESTMDWH.cw01.contiwan.com)));User Id=MDICE_REPORTS;Password=MDICE_REPORTS;

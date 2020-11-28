@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xdzj2b9YZ2ztIskDa2HOxakRkXRHgjlcOXzXTNBv3pU3DyEaDK0iQGpP2Ww1KKSarL6ZlpJWusx0uVSr7ednsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fr2ed\\source\\repos\\src.AutomaticWip\\AutomaticWip.Core\\AutomaticWip.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fr2ed\\.nuget\\packages\\dapper\\2.0.30\\dapper.2.0.30.nupkg.sha512",
+    "C:\\Users\\fr2ed\\.nuget\\packages\\epplus\\4.5.3.3\\epplus.4.5.3.3.nupkg.sha512",
+    "C:\\Users\\fr2ed\\.nuget\\packages\\log4net\\2.0.8\\log4net.2.0.8.nupkg.sha512",
+    "C:\\Users\\fr2ed\\.nuget\\packages\\oracle.manageddataaccess\\19.6.0\\oracle.manageddataaccess.19.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

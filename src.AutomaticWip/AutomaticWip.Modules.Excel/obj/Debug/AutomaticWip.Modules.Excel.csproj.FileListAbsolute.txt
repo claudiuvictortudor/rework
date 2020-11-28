@@ -1,0 +1,10 @@
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Excel\bin\Debug\AutomaticWip.Modules.Excel.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Excel\bin\Debug\AutomaticWip.Modules.Excel.pdb
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Excel\bin\Debug\EPPlus.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Excel\bin\Debug\AutomaticWip.Contracts.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Excel\bin\Debug\AutomaticWip.Contracts.pdb
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Excel\obj\Debug\AutomaticWip.Modules.Excel.csprojAssemblyReference.cache
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Excel\obj\Debug\AutomaticWip.Modules.Excel.csproj.CoreCompileInputs.cache
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Excel\obj\Debug\AutomaticWip.Modules.Excel.csproj.CopyComplete
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Excel\obj\Debug\AutomaticWip.Modules.Excel.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Excel\obj\Debug\AutomaticWip.Modules.Excel.pdb

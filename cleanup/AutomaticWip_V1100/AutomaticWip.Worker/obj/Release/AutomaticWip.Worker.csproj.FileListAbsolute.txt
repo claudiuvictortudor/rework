@@ -1,0 +1,41 @@
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Worker\bin\Release\log4net.config
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Worker\bin\Release\AutomaticWip.Worker.exe.config
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Worker\bin\Release\AutomaticWip.Worker.exe
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Worker\bin\Release\AutomaticWip.Worker.pdb
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Worker\bin\Release\AutomaticWip.Core.dll
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Worker\bin\Release\log4net.dll
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Worker\bin\Release\Topshelf.dll
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Worker\bin\Release\EPPlus.dll
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Worker\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Worker\bin\Release\Dapper.dll
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Worker\bin\Release\AutomaticWip.Core.pdb
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Worker\bin\Release\log4net.xml
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Worker\bin\Release\Topshelf.xml
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Worker\bin\Release\EPPlus.xml
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Worker\bin\Release\Dapper.xml
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Worker\obj\Release\AutomaticWip.Worker.csprojAssemblyReference.cache
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Worker\obj\Release\AutomaticWip.Worker.csproj.CoreCompileInputs.cache
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Worker\obj\Release\AutomaticWip.Worker.csproj.CopyComplete
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Worker\obj\Release\AutomaticWip.Worker.exe
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Worker\obj\Release\AutomaticWip.Worker.pdb
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Worker\bin\Release\log4net.config
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Worker\bin\Release\AutomaticWip.Worker.exe.config
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Worker\bin\Release\AutomaticWip.Worker.exe
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Worker\bin\Release\AutomaticWip.Worker.pdb
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Worker\bin\Release\AutomaticWip.Core.dll
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Worker\bin\Release\log4net.dll
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Worker\bin\Release\Topshelf.dll
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Worker\bin\Release\EPPlus.dll
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Worker\bin\Release\Dapper.dll
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Worker\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Worker\bin\Release\System.ValueTuple.dll
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Worker\bin\Release\AutomaticWip.Core.pdb
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Worker\bin\Release\log4net.xml
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Worker\bin\Release\Topshelf.xml
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Worker\bin\Release\EPPlus.xml
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Worker\bin\Release\Dapper.xml
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Worker\bin\Release\System.ValueTuple.xml
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Worker\obj\Release\AutomaticWip.Worker.csprojAssemblyReference.cache
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Worker\obj\Release\AutomaticWip.Worker.csproj.CopyComplete
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Worker\obj\Release\AutomaticWip.Worker.exe
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Worker\obj\Release\AutomaticWip.Worker.pdb

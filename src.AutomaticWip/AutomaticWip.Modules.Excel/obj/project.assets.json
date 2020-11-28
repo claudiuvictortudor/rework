@@ -1,0 +1,220 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "EPPlus/4.5.3.3": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "PresentationCore",
+          "System",
+          "System.Core",
+          "System.Data",
+          "System.Drawing",
+          "System.Security",
+          "System.Xml",
+          "System.configuration"
+        ],
+        "compile": {
+          "lib/net40/EPPlus.dll": {}
+        },
+        "runtime": {
+          "lib/net40/EPPlus.dll": {}
+        }
+      },
+      "AutomaticWip.Contracts/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AutomaticWip.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AutomaticWip.Contracts.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win": {
+      "EPPlus/4.5.3.3": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "PresentationCore",
+          "System",
+          "System.Core",
+          "System.Data",
+          "System.Drawing",
+          "System.Security",
+          "System.Xml",
+          "System.configuration"
+        ],
+        "compile": {
+          "lib/net40/EPPlus.dll": {}
+        },
+        "runtime": {
+          "lib/net40/EPPlus.dll": {}
+        }
+      },
+      "AutomaticWip.Contracts/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AutomaticWip.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AutomaticWip.Contracts.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x64": {
+      "EPPlus/4.5.3.3": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "PresentationCore",
+          "System",
+          "System.Core",
+          "System.Data",
+          "System.Drawing",
+          "System.Security",
+          "System.Xml",
+          "System.configuration"
+        ],
+        "compile": {
+          "lib/net40/EPPlus.dll": {}
+        },
+        "runtime": {
+          "lib/net40/EPPlus.dll": {}
+        }
+      },
+      "AutomaticWip.Contracts/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AutomaticWip.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AutomaticWip.Contracts.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x86": {
+      "EPPlus/4.5.3.3": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "PresentationCore",
+          "System",
+          "System.Core",
+          "System.Data",
+          "System.Drawing",
+          "System.Security",
+          "System.Xml",
+          "System.configuration"
+        ],
+        "compile": {
+          "lib/net40/EPPlus.dll": {}
+        },
+        "runtime": {
+          "lib/net40/EPPlus.dll": {}
+        }
+      },
+      "AutomaticWip.Contracts/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AutomaticWip.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AutomaticWip.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EPPlus/4.5.3.3": {
+      "sha512": "aZnWmrQNRQuV/2Kwu+pTv1HVX1ZBvoGKw2GuzUOmBRpOD09sYJFGHww8NVQd3IIeb1vqosPDFZgND/1nxTzFKQ==",
+      "type": "package",
+      "path": "epplus/4.5.3.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "epplus.4.5.3.3.nupkg.sha512",
+        "epplus.nuspec",
+        "lgpl-3.0.txt",
+        "lib/net35/EPPlus.dll",
+        "lib/net35/EPPlus.xml",
+        "lib/net40/EPPlus.dll",
+        "lib/net40/EPPlus.xml",
+        "lib/netstandard2.0/EPPlus.dll",
+        "lib/netstandard2.0/EPPlus.xml",
+        "lib/netstandard2.1/EPPlus.dll",
+        "lib/netstandard2.1/EPPlus.xml",
+        "readme.txt"
+      ]
+    },
+    "AutomaticWip.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../AutomaticWip.Contracts/AutomaticWip.Contracts.csproj",
+      "msbuildProject": "../AutomaticWip.Contracts/AutomaticWip.Contracts.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "AutomaticWip.Contracts >= 1.0.0",
+      "EPPlus >= 4.5.3.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\uid38640\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Excel\\AutomaticWip.Modules.Excel.csproj",
+      "projectName": "AutomaticWip.Modules.Excel",
+      "projectPath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Excel\\AutomaticWip.Modules.Excel.csproj",
+      "packagesPath": "C:\\Users\\uid38640\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Excel\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\uid38640\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {
+            "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj": {
+              "projectPath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "dependencies": {
+          "EPPlus": {
+            "target": "Package",
+            "version": "[4.5.3.3, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

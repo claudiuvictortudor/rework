@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nZviX4bpdrwbaK/rZcWsMDgysPo637TWV4zYU7bBOGJPL6097PIS+2eTVv2xpqmgON+jNDTXXqWjrqP220vEqA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Excel\\AutomaticWip.Modules.Excel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uid38640\\.nuget\\packages\\epplus\\4.5.3.3\\epplus.4.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

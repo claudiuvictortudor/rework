@@ -1,0 +1,14 @@
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\bin\Debug\AutomaticWip.Core.dll
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\bin\Debug\AutomaticWip.Core.pdb
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\bin\Debug\Dapper.dll
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\bin\Debug\EPPlus.dll
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\bin\Debug\log4net.dll
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\bin\Debug\System.ValueTuple.dll
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\bin\Debug\Dapper.xml
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\bin\Debug\EPPlus.xml
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\bin\Debug\log4net.xml
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\bin\Debug\System.ValueTuple.xml
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\obj\Debug\AutomaticWip.Core.csproj.CopyComplete
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\obj\Debug\AutomaticWip.Core.dll
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\obj\Debug\AutomaticWip.Core.pdb

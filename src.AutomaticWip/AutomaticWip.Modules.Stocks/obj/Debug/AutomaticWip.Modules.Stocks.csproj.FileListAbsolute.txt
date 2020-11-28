@@ -1,0 +1,14 @@
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\bin\Debug\AutomaticWip.Modules.Stocks.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\bin\Debug\AutomaticWip.Modules.Stocks.pdb
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\bin\Debug\Dapper.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\bin\Debug\EPPlus.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\bin\Debug\AutomaticWip.Contracts.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\bin\Debug\AutomaticWip.Modules.Excel.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\bin\Debug\AutomaticWip.Contracts.pdb
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\bin\Debug\AutomaticWip.Modules.Excel.pdb
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\obj\Debug\AutomaticWip.Modules.Stocks.csprojAssemblyReference.cache
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\obj\Debug\AutomaticWip.Modules.Stocks.csproj.CoreCompileInputs.cache
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\obj\Debug\AutomaticWip.Modules.Stocks.csproj.CopyComplete
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\obj\Debug\AutomaticWip.Modules.Stocks.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Stocks\obj\Debug\AutomaticWip.Modules.Stocks.pdb

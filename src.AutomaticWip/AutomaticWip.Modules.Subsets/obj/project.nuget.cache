@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vtRlvCAxVOQ26eckZ5HsTtaMyLXtgctX+y+0uXqW+7ETNBk4dfrJ9MWcmzZRi67ICIfIuBBL9p1/pCWYAE5tpw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Subsets\\AutomaticWip.Modules.Subsets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uid38640\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
+    "C:\\Users\\uid38640\\.nuget\\packages\\oracle.manageddataaccess\\19.9.0\\oracle.manageddataaccess.19.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

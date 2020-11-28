@@ -1,0 +1,6 @@
+D:\Projects\src.AutomaticWip\AutomaticWip.Contracts\bin\Release\AutomaticWip.Contracts.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Contracts\bin\Release\AutomaticWip.Contracts.pdb
+D:\Projects\src.AutomaticWip\AutomaticWip.Contracts\obj\Release\AutomaticWip.Contracts.csproj.CoreCompileInputs.cache
+D:\Projects\src.AutomaticWip\AutomaticWip.Contracts\obj\Release\AutomaticWip.Contracts.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Contracts\obj\Release\AutomaticWip.Contracts.pdb
+D:\Projects\src.AutomaticWip\AutomaticWip.Contracts\obj\Release\AutomaticWip.Contracts.csprojAssemblyReference.cache

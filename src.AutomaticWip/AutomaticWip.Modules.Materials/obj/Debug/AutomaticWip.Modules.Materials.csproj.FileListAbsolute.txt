@@ -1,0 +1,11 @@
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Materials\bin\Debug\AutomaticWip.Modules.Materials.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Materials\bin\Debug\AutomaticWip.Modules.Materials.pdb
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Materials\bin\Debug\Dapper.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Materials\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Materials\bin\Debug\AutomaticWip.Contracts.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Materials\bin\Debug\AutomaticWip.Contracts.pdb
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Materials\obj\Debug\AutomaticWip.Modules.Materials.csprojAssemblyReference.cache
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Materials\obj\Debug\AutomaticWip.Modules.Materials.csproj.CoreCompileInputs.cache
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Materials\obj\Debug\AutomaticWip.Modules.Materials.csproj.CopyComplete
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Materials\obj\Debug\AutomaticWip.Modules.Materials.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Modules.Materials\obj\Debug\AutomaticWip.Modules.Materials.pdb

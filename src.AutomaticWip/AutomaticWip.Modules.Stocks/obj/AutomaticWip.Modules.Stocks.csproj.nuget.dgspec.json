@@ -1,0 +1,143 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Stocks\\AutomaticWip.Modules.Stocks.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj",
+        "projectName": "AutomaticWip.Contracts",
+        "projectPath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Excel\\AutomaticWip.Modules.Excel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Excel\\AutomaticWip.Modules.Excel.csproj",
+        "projectName": "AutomaticWip.Modules.Excel",
+        "projectPath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Excel\\AutomaticWip.Modules.Excel.csproj",
+        "packagesPath": "C:\\Users\\uid38640\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Excel\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\uid38640\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj": {
+                "projectPath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[4.5.3.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Stocks\\AutomaticWip.Modules.Stocks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Stocks\\AutomaticWip.Modules.Stocks.csproj",
+        "projectName": "AutomaticWip.Modules.Stocks",
+        "projectPath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Stocks\\AutomaticWip.Modules.Stocks.csproj",
+        "packagesPath": "C:\\Users\\uid38640\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Stocks\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\uid38640\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj": {
+                "projectPath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj"
+              },
+              "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Excel\\AutomaticWip.Modules.Excel.csproj": {
+                "projectPath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Excel\\AutomaticWip.Modules.Excel.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[4.5.3.3, )"
+            },
+            "Oracle.ManagedDataAccess": {
+              "target": "Package",
+              "version": "[19.9.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+D:\Projects\src.AutomaticWip\AutomaticWip.Contracts\bin\Debug\AutomaticWip.Contracts.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Contracts\bin\Debug\AutomaticWip.Contracts.pdb
+D:\Projects\src.AutomaticWip\AutomaticWip.Contracts\obj\Debug\AutomaticWip.Contracts.csproj.CoreCompileInputs.cache
+D:\Projects\src.AutomaticWip\AutomaticWip.Contracts\obj\Debug\AutomaticWip.Contracts.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Contracts\obj\Debug\AutomaticWip.Contracts.pdb

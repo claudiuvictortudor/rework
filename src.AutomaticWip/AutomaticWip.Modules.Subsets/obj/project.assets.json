@@ -1,0 +1,239 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "Dapper/2.0.35": {
+        "type": "package",
+        "compile": {
+          "lib/net461/Dapper.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Dapper.dll": {}
+        }
+      },
+      "Oracle.ManagedDataAccess/19.9.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Oracle.ManagedDataAccess.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Oracle.ManagedDataAccess.dll": {}
+        }
+      },
+      "AutomaticWip.Contracts/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AutomaticWip.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AutomaticWip.Contracts.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win": {
+      "Dapper/2.0.35": {
+        "type": "package",
+        "compile": {
+          "lib/net461/Dapper.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Dapper.dll": {}
+        }
+      },
+      "Oracle.ManagedDataAccess/19.9.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Oracle.ManagedDataAccess.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Oracle.ManagedDataAccess.dll": {}
+        }
+      },
+      "AutomaticWip.Contracts/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AutomaticWip.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AutomaticWip.Contracts.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x64": {
+      "Dapper/2.0.35": {
+        "type": "package",
+        "compile": {
+          "lib/net461/Dapper.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Dapper.dll": {}
+        }
+      },
+      "Oracle.ManagedDataAccess/19.9.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Oracle.ManagedDataAccess.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Oracle.ManagedDataAccess.dll": {}
+        }
+      },
+      "AutomaticWip.Contracts/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AutomaticWip.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AutomaticWip.Contracts.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x86": {
+      "Dapper/2.0.35": {
+        "type": "package",
+        "compile": {
+          "lib/net461/Dapper.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Dapper.dll": {}
+        }
+      },
+      "Oracle.ManagedDataAccess/19.9.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Oracle.ManagedDataAccess.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Oracle.ManagedDataAccess.dll": {}
+        }
+      },
+      "AutomaticWip.Contracts/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AutomaticWip.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AutomaticWip.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dapper/2.0.35": {
+      "sha512": "/xAgd8BO8EDnJ0sURWEV8LptHHvTKxoYiT63YUF2U/yWE2VyUCqR2jcrtEyNngT9Kjzppecz95UKiBla3PnR7g==",
+      "type": "package",
+      "path": "dapper/2.0.35",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dapper.2.0.35.nupkg.sha512",
+        "dapper.nuspec",
+        "lib/net461/Dapper.dll",
+        "lib/net461/Dapper.xml",
+        "lib/netstandard2.0/Dapper.dll",
+        "lib/netstandard2.0/Dapper.xml"
+      ]
+    },
+    "Oracle.ManagedDataAccess/19.9.0": {
+      "sha512": "3lz/XZRr3VB6SnDPGbFYkLuImMgtGzc2sYdZ9+Pc7txyBwq+Uke9CY9HR2mU23J8YT4Oud9tt9cbDzqYCNEsng==",
+      "type": "package",
+      "path": "oracle.manageddataaccess/19.9.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "PerfCounters/register_odpm_perfmon_counters.ps1",
+        "PerfCounters/unregister_odpm_perfmon_counters.ps1",
+        "bin/x64/Oracle.ManagedDataAccessIOP.dll",
+        "bin/x86/Oracle.ManagedDataAccessIOP.dll",
+        "content/net40/App.config.install.xdt",
+        "content/net40/App.config.transform",
+        "content/net40/App.config.uninstall.xdt",
+        "content/net40/Web.config.install.xdt",
+        "content/net40/Web.config.transform",
+        "content/net40/Web.config.uninstall.xdt",
+        "info.txt",
+        "lib/net40/Oracle.ManagedDataAccess.dll",
+        "oracle.manageddataaccess.19.9.0.nupkg.sha512",
+        "oracle.manageddataaccess.nuspec",
+        "readme.txt"
+      ]
+    },
+    "AutomaticWip.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../AutomaticWip.Contracts/AutomaticWip.Contracts.csproj",
+      "msbuildProject": "../AutomaticWip.Contracts/AutomaticWip.Contracts.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "AutomaticWip.Contracts >= 1.0.0",
+      "Dapper >= 2.0.35",
+      "Oracle.ManagedDataAccess >= 19.9.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\uid38640\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Subsets\\AutomaticWip.Modules.Subsets.csproj",
+      "projectName": "AutomaticWip.Modules.Subsets",
+      "projectPath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Subsets\\AutomaticWip.Modules.Subsets.csproj",
+      "packagesPath": "C:\\Users\\uid38640\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Subsets\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\uid38640\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {
+            "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj": {
+              "projectPath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "dependencies": {
+          "Dapper": {
+            "target": "Package",
+            "version": "[2.0.35, )"
+          },
+          "Oracle.ManagedDataAccess": {
+            "target": "Package",
+            "version": "[19.9.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

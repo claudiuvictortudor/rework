@@ -1,0 +1,29 @@
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Core\bin\Release\AutomaticWip.Core.dll
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Core\bin\Release\AutomaticWip.Core.pdb
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Core\bin\Release\Dapper.dll
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Core\bin\Release\EPPlus.dll
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Core\bin\Release\log4net.dll
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Core\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Core\bin\Release\Dapper.xml
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Core\bin\Release\EPPlus.xml
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Core\bin\Release\log4net.xml
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Core\obj\Release\AutomaticWip.Core.csprojAssemblyReference.cache
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Core\obj\Release\AutomaticWip.Core.csproj.CoreCompileInputs.cache
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Core\obj\Release\AutomaticWip.Core.csproj.CopyComplete
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Core\obj\Release\AutomaticWip.Core.dll
+C:\Users\fr2ed\OneDrive\Documents\C# Projects\AutomaticWip\AutomaticWip.Core\obj\Release\AutomaticWip.Core.pdb
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\bin\Release\AutomaticWip.Core.dll
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\bin\Release\AutomaticWip.Core.pdb
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\bin\Release\Dapper.dll
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\bin\Release\EPPlus.dll
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\bin\Release\log4net.dll
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\bin\Release\System.ValueTuple.dll
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\bin\Release\Dapper.xml
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\bin\Release\EPPlus.xml
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\bin\Release\log4net.xml
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\bin\Release\System.ValueTuple.xml
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\obj\Release\AutomaticWip.Core.csproj.CopyComplete
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\obj\Release\AutomaticWip.Core.dll
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\obj\Release\AutomaticWip.Core.pdb
+C:\Users\uid38640\Desktop\AutomaticWip\AutomaticWip.Core\obj\Release\AutomaticWip.Core.csprojAssemblyReference.cache

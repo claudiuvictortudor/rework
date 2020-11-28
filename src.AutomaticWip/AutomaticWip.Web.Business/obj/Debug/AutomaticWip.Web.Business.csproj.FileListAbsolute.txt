@@ -1,0 +1,9 @@
+D:\Projects\src.AutomaticWip\AutomaticWip.Web.Business\bin\Debug\AutomaticWip.Web.Business.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Web.Business\bin\Debug\AutomaticWip.Web.Business.pdb
+D:\Projects\src.AutomaticWip\AutomaticWip.Web.Business\bin\Debug\AutomaticWip.Contracts.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Web.Business\bin\Debug\AutomaticWip.Contracts.pdb
+D:\Projects\src.AutomaticWip\AutomaticWip.Web.Business\obj\Debug\AutomaticWip.Web.Business.csprojAssemblyReference.cache
+D:\Projects\src.AutomaticWip\AutomaticWip.Web.Business\obj\Debug\AutomaticWip.Web.Business.csproj.CoreCompileInputs.cache
+D:\Projects\src.AutomaticWip\AutomaticWip.Web.Business\obj\Debug\AutomaticWip.Web.Business.csproj.CopyComplete
+D:\Projects\src.AutomaticWip\AutomaticWip.Web.Business\obj\Debug\AutomaticWip.Web.Business.dll
+D:\Projects\src.AutomaticWip\AutomaticWip.Web.Business\obj\Debug\AutomaticWip.Web.Business.pdb

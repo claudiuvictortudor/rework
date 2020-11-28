@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\fr2ed\\source\\repos\\src.AutomaticWip\\AutomaticWip.Core\\AutomaticWip.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\fr2ed\\source\\repos\\src.AutomaticWip\\AutomaticWip.Core\\AutomaticWip.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fr2ed\\source\\repos\\src.AutomaticWip\\AutomaticWip.Core\\AutomaticWip.Core.csproj",
+        "projectName": "AutomaticWip.Core",
+        "projectPath": "C:\\Users\\fr2ed\\source\\repos\\src.AutomaticWip\\AutomaticWip.Core\\AutomaticWip.Core.csproj",
+        "packagesPath": "C:\\Users\\fr2ed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fr2ed\\source\\repos\\src.AutomaticWip\\AutomaticWip.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\fr2ed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[4.5.3.3, )"
+            },
+            "Oracle.ManagedDataAccess": {
+              "target": "Package",
+              "version": "[19.6.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

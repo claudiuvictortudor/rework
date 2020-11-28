@@ -1,0 +1,2 @@
+D:\Projects\src.AutomaticWip\ETLTests\obj\Release\ETLTests.csprojAssemblyReference.cache
+D:\Projects\src.AutomaticWip\ETLTests\obj\Release\ETLTests.csproj.CoreCompileInputs.cache

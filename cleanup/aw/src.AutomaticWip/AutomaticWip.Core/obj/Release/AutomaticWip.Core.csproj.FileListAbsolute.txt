@@ -1,0 +1,11 @@
+C:\Users\uid38640\Downloads\src.AutomaticWip\AutomaticWip.Core\bin\Release\AutomaticWip.Core.dll
+C:\Users\uid38640\Downloads\src.AutomaticWip\AutomaticWip.Core\bin\Release\AutomaticWip.Core.pdb
+C:\Users\uid38640\Downloads\src.AutomaticWip\AutomaticWip.Core\bin\Release\Dapper.dll
+C:\Users\uid38640\Downloads\src.AutomaticWip\AutomaticWip.Core\bin\Release\EPPlus.dll
+C:\Users\uid38640\Downloads\src.AutomaticWip\AutomaticWip.Core\bin\Release\log4net.dll
+C:\Users\uid38640\Downloads\src.AutomaticWip\AutomaticWip.Core\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\uid38640\Downloads\src.AutomaticWip\AutomaticWip.Core\obj\Release\AutomaticWip.Core.csprojAssemblyReference.cache
+C:\Users\uid38640\Downloads\src.AutomaticWip\AutomaticWip.Core\obj\Release\AutomaticWip.Core.csproj.CoreCompileInputs.cache
+C:\Users\uid38640\Downloads\src.AutomaticWip\AutomaticWip.Core\obj\Release\AutomaticWip.Core.csproj.CopyComplete
+C:\Users\uid38640\Downloads\src.AutomaticWip\AutomaticWip.Core\obj\Release\AutomaticWip.Core.dll
+C:\Users\uid38640\Downloads\src.AutomaticWip\AutomaticWip.Core\obj\Release\AutomaticWip.Core.pdb
