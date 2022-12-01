@@ -1,14 +1,18 @@
 {
   "version": 3,
   "targets": {
-    ".NETFramework,Version=v4.6.1": {
+    ".NETFramework,Version=v4.8": {
       "Dapper/2.0.35": {
         "type": "package",
         "compile": {
-          "lib/net461/Dapper.dll": {}
+          "lib/net461/Dapper.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/Dapper.dll": {}
+          "lib/net461/Dapper.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Oracle.ManagedDataAccess/19.9.0": {
@@ -30,14 +34,18 @@
         }
       }
     },
-    ".NETFramework,Version=v4.6.1/win": {
+    ".NETFramework,Version=v4.8/win": {
       "Dapper/2.0.35": {
         "type": "package",
         "compile": {
-          "lib/net461/Dapper.dll": {}
+          "lib/net461/Dapper.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/Dapper.dll": {}
+          "lib/net461/Dapper.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Oracle.ManagedDataAccess/19.9.0": {
@@ -59,14 +67,18 @@
         }
       }
     },
-    ".NETFramework,Version=v4.6.1/win-x64": {
+    ".NETFramework,Version=v4.8/win-x64": {
       "Dapper/2.0.35": {
         "type": "package",
         "compile": {
-          "lib/net461/Dapper.dll": {}
+          "lib/net461/Dapper.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/Dapper.dll": {}
+          "lib/net461/Dapper.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Oracle.ManagedDataAccess/19.9.0": {
@@ -88,14 +100,18 @@
         }
       }
     },
-    ".NETFramework,Version=v4.6.1/win-x86": {
+    ".NETFramework,Version=v4.8/win-x86": {
       "Dapper/2.0.35": {
         "type": "package",
         "compile": {
-          "lib/net461/Dapper.dll": {}
+          "lib/net461/Dapper.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net461/Dapper.dll": {}
+          "lib/net461/Dapper.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Oracle.ManagedDataAccess/19.9.0": {
@@ -165,53 +181,53 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETFramework,Version=v4.6.1": [
+    ".NETFramework,Version=v4.8": [
       "AutomaticWip.Contracts >= 1.0.0",
       "Dapper >= 2.0.35",
       "Oracle.ManagedDataAccess >= 19.9.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\uid38640\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\fr2ed\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Subsets\\AutomaticWip.Modules.Subsets.csproj",
+      "projectUniqueName": "D:\\GIT\\rework\\src.AutomaticWip\\AutomaticWip.Modules.Subsets\\AutomaticWip.Modules.Subsets.csproj",
       "projectName": "AutomaticWip.Modules.Subsets",
-      "projectPath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Subsets\\AutomaticWip.Modules.Subsets.csproj",
-      "packagesPath": "C:\\Users\\uid38640\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Subsets\\obj\\",
+      "projectPath": "D:\\GIT\\rework\\src.AutomaticWip\\AutomaticWip.Modules.Subsets\\AutomaticWip.Modules.Subsets.csproj",
+      "packagesPath": "C:\\Users\\fr2ed\\.nuget\\packages\\",
+      "outputPath": "D:\\GIT\\rework\\src.AutomaticWip\\AutomaticWip.Modules.Subsets\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\uid38640\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\fr2ed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net461"
+        "net48"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net461": {
+        "net48": {
           "projectReferences": {
-            "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj": {
-              "projectPath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj"
+            "D:\\GIT\\rework\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj": {
+              "projectPath": "D:\\GIT\\rework\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj"
             }
           }
         }
       }
     },
     "frameworks": {
-      "net461": {
+      "net48": {
         "dependencies": {
           "Dapper": {
             "target": "Package",

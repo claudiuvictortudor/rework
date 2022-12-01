@@ -1,56 +1,61 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Subsets\\AutomaticWip.Modules.Subsets.csproj": {}
+    "D:\\GIT\\rework\\src.AutomaticWip\\AutomaticWip.Modules.Subsets\\AutomaticWip.Modules.Subsets.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj": {
+    "D:\\GIT\\rework\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj": {
       "restore": {
-        "projectUniqueName": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj",
+        "projectUniqueName": "D:\\GIT\\rework\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj",
         "projectName": "AutomaticWip.Contracts",
-        "projectPath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj"
+        "projectPath": "D:\\GIT\\rework\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
       },
       "frameworks": {
-        "net461": {}
+        "net48": {}
       }
     },
-    "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Subsets\\AutomaticWip.Modules.Subsets.csproj": {
+    "D:\\GIT\\rework\\src.AutomaticWip\\AutomaticWip.Modules.Subsets\\AutomaticWip.Modules.Subsets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Subsets\\AutomaticWip.Modules.Subsets.csproj",
+        "projectUniqueName": "D:\\GIT\\rework\\src.AutomaticWip\\AutomaticWip.Modules.Subsets\\AutomaticWip.Modules.Subsets.csproj",
         "projectName": "AutomaticWip.Modules.Subsets",
-        "projectPath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Subsets\\AutomaticWip.Modules.Subsets.csproj",
-        "packagesPath": "C:\\Users\\uid38640\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Subsets\\obj\\",
+        "projectPath": "D:\\GIT\\rework\\src.AutomaticWip\\AutomaticWip.Modules.Subsets\\AutomaticWip.Modules.Subsets.csproj",
+        "packagesPath": "C:\\Users\\fr2ed\\.nuget\\packages\\",
+        "outputPath": "D:\\GIT\\rework\\src.AutomaticWip\\AutomaticWip.Modules.Subsets\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\uid38640\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\fr2ed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net461"
+          "net48"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net461": {
+          "net48": {
             "projectReferences": {
-              "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj": {
-                "projectPath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj"
+              "D:\\GIT\\rework\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj": {
+                "projectPath": "D:\\GIT\\rework\\src.AutomaticWip\\AutomaticWip.Contracts\\AutomaticWip.Contracts.csproj"
               }
             }
           }
         }
       },
       "frameworks": {
-        "net461": {
+        "net48": {
           "dependencies": {
             "Dapper": {
               "target": "Package",

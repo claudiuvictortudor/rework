@@ -24,7 +24,7 @@ namespace AutomaticWip.Contracts
         }
 
         /// <summary>
-        /// Thread synchronisation
+        /// Thread synchronization
         /// </summary>
         static readonly object _lock;
 
@@ -119,11 +119,11 @@ namespace AutomaticWip.Contracts
         }
 
         /// <summary>
-        /// Maps a collection of models to a datatable.
+        /// Maps a collection of models to a data table.
         /// </summary>
         /// <typeparam name="T">Model type.</typeparam>
         /// <param name="values">Objects</param>
-        /// <param name="tableName">Name of the datatable.</param>
+        /// <param name="tableName">Name of the data table.</param>
         static public DataTable AsTable<T>(this IEnumerable<T> values, string tableName = "")
             where T : class
         {

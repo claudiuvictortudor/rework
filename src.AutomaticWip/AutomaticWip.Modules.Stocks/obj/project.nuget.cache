@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jou/VrdI0YLZq1NsQPwimQDwFhf5J2Lv9sWz9OLxY8jG0g3jJvxxUMRJ5CmQ4mjQlYGKTzseRscQju8GDP5qGA==",
+  "dgSpecHash": "VFcv6N2uCzE7HmPC6ZB9JF/pibEHL+hEoQP6gPR5DwSP+zIg24QO/I3/PJJkmxXOLn8USR20whdkyL/oD8fxLQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\src.AutomaticWip\\AutomaticWip.Modules.Stocks\\AutomaticWip.Modules.Stocks.csproj",
+  "projectFilePath": "D:\\GIT\\rework\\src.AutomaticWip\\AutomaticWip.Modules.Stocks\\AutomaticWip.Modules.Stocks.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\uid38640\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
-    "C:\\Users\\uid38640\\.nuget\\packages\\epplus\\4.5.3.3\\epplus.4.5.3.3.nupkg.sha512",
-    "C:\\Users\\uid38640\\.nuget\\packages\\oracle.manageddataaccess\\19.9.0\\oracle.manageddataaccess.19.9.0.nupkg.sha512"
+    "C:\\Users\\fr2ed\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
+    "C:\\Users\\fr2ed\\.nuget\\packages\\epplus\\4.5.3.3\\epplus.4.5.3.3.nupkg.sha512",
+    "C:\\Users\\fr2ed\\.nuget\\packages\\oracle.manageddataaccess\\19.9.0\\oracle.manageddataaccess.19.9.0.nupkg.sha512"
   ],
   "logs": []
 }
